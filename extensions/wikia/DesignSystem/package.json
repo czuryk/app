@@ -7,7 +7,7 @@
   "dependencies": {
     "design-system": "git://github.com/Wikia/design-system.git#23.10.0",
     "ember-fetch": "^6.4.0",
-    "grunt": "~0.4.2",
+    "grunt": "~1.5.2",
     "grunt-mustache": "~0.1.5",
     "i18next": "^10.5.0"
   }
